@@ -1,0 +1,10 @@
+{
+  "login": {
+    "title": "7 Days To Die Server Manage",
+    "username": "Administrator",
+    "loginbutton": "Login",
+    "success": "Login Success",
+    "failed": "Login Failed",
+    "validationError": "Please input Access-Token"
+  }
+}

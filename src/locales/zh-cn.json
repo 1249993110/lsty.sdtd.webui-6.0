@@ -1,0 +1,10 @@
+{
+  "login": {
+    "title": "天依七日杀后台管理系统",
+    "username": "系统管理员",
+    "loginbutton": "登 录",
+    "success": "登录成功",
+    "failed": "登录失败",
+    "validationError": "请输入Access-Token"
+  }
+}
